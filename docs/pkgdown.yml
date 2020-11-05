@@ -3,8 +3,8 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   multiple: multiple.html
-last_built: 2020-11-04T23:59Z
+last_built: 2020-11-05T00:17Z
 urls:
-  reference: https://thomasgaquiere.github.io/multiple-2//reference
-  article: https://thomasgaquiere.github.io/multiple-2//articles
+  reference: https://cours-r.github.io/travailler-package-thomasgaquiere//reference
+  article: https://cours-r.github.io/travailler-package-thomasgaquiere//articles
 

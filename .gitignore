@@ -26,3 +26,4 @@ src/*.dll
 /src-x64/
 # uncomment if pkgdown is run by Travis
 # docs/
+docs

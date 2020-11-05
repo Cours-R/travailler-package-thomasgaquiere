@@ -3,15 +3,10 @@
 #' Multiples of numbers
 #'
 #' This package allows simple computation of multiples
-#' of numbers, including fast algorithms for integers \insertCite{Marcon2014c}{multiple}.
+#' of numbers, including fast algorithms for integers.
 #'
 #' @name multiple
 #' @docType package
-#' @references
-#' \insertAllCited{}
-#' @importFrom Rdpack reprompt
-#' @importFrom Rcpp sourceCpp
-#' @useDynLib multiple, .registration = TRUE
 NULL
 
 #' seq1_10
@@ -32,4 +27,3 @@ NULL
 #' @source Values computed by the R software,
 #'   \url{https://www.r-project.org/}
 "seq1_100"
-

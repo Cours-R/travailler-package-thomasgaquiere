@@ -18,7 +18,6 @@ double <- function(number) {
 }
 
 
-
 #' fuzzydouble
 #'
 #' Double value of numbers with an error
@@ -37,5 +36,8 @@ double <- function(number) {
 #' fuzzydouble(2)
 #' fuzzydouble(1:4)
 fuzzydouble <- function(number, sd = 1) {
-  return(2 * number + stats::rnorm(length(number), 0, sd))
+  return(2 * number + stats::rnorm(length(number), 0,
+                                   sd))
 }
+
+
